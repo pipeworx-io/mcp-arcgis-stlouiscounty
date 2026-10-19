@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-stlouiscounty",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "St. Louis County GIS — St. Louis County, Missouri open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d434fc09b4e30abda73a0a1fd199fe283aca49bdfdfe4c4aa2a4760ee7a96d88",
-    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
+    "sourceHash": "v1-51d359440c079db64a6f2334d95d9f61c21cd993b7d3f7e230920cc2d6b051f1",
+    "sourceCommit": "54bf7d1c06a0775508a65d0c388dd10ba75174c3"
   }
 }
